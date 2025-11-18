@@ -1,6 +1,3 @@
-# cloudflaretunnel
-Cloudflare Tunnel - Docker compose
+# Cloudflaretunnel
 
 Poner token
-
-
